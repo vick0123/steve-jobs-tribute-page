@@ -1,0 +1,57 @@
+/*asdf*/
+@charset "encoding";
+
+html{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    background: #e6e6e6;
+    text-align:center;  
+
+}
+
+h1{
+  font-size:45px;
+  font-family:Helvetica;
+  background-color:#3a3b3c;
+  color:white;
+  border-radius: 25px;
+  text-align: center;
+
+}
+
+
+
+img{
+    padding: 10px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 25px;
+    float:left;
+    margin-right:30px;
+}
+
+body{
+  text-align:left;  
+  line-height: 2;
+  padding: 20px;
+  margin: 10px 30px 10px 30px;
+  border-radius: 25px;
+  background-color: lightgray;
+}
+p{
+    padding: 20px;
+
+}
+
+ul li{
+  list-style-type: circle;
+  margin: 10px 30px 10px 30px;
+}
+a{
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
+#tribute-link{
+  font-size:14px;
+}
